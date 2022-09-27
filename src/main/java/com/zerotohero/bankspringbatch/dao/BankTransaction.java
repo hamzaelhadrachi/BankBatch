@@ -21,7 +21,4 @@ public class BankTransaction {
     private String strTransactionDate;
     private String transactionType;
     private double transactionAmount;
-
-
-
 }
